@@ -1,0 +1,2 @@
+# adventoftypescript
+Advent of Typescript!
